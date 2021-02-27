@@ -22,7 +22,6 @@
                             <ol class="breadcrumb float-sm-right">
                                 <li class="breadcrumb-item"><a href="{{ route('home') }}"><i class="fa fa-home"></i> Home</a></li>
                                 @yield('breadcrumb')
-                                <li class="breadcrumb-item active">Dashboard v2</li>
                             </ol>
                         </div><!-- /.col -->
                     </div><!-- /.row -->
